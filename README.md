@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a master's student in computer science at `ETH Zürich` with an interest in the intersection of causality and machine learning. Currently, I am working on my master's thesis within the MPI/ETH CLS collaboration on causal structure learning.
 
 <!--
 **ninodimontalcino/ninodimontalcino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
