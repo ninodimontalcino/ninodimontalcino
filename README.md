@@ -2,4 +2,4 @@ I am doing AI research with a focus on causality, generalization/robustness, and
 
 <b>Previously:</b> Vector Institute 🇨🇦, Mila Quebec 🇨🇦, MPI Tübingen 🇩🇪, ETH Zurich🇨🇭
 
-Not updating this page frequently. Please have a look at <a href="https://ninodimontalcino.github.io">my personal page/</a> for a more up-to-date state of affairs.
+Important: I am not updating this page frequently - so it might be out of date. Please have a look at <a href="https://ninodimontalcino.github.io">my personal page</a> for a more up-to-date state.
